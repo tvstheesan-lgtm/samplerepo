@@ -1,5 +1,5 @@
 def passwort_prufen():
-    User_Name="Siva"
+    User_Name="Vithu"
     Richtiges_Password="12345"
 
     versuche=0
